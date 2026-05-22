@@ -110,5 +110,7 @@ lanqiao-mcu-ai-helper/
 ├── prompts/
 │   ├── code_explain_prompt.md
 │   └── debug_prompt.md
+├── agents/
+│   └── mcu_debug_agent.md
 └── docs/
     └── project_plan.md
